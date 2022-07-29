@@ -1,0 +1,200 @@
+{
+  "items": [
+    {
+      "name": "Fut Azteca",
+      "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+      "slug": "fut-azteca",
+      "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+      "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+      "typeName": "Section",
+      "relatedItem": {
+        "name": "Futbol",
+        "slug": "futbol",
+        "typeName": "Sport",
+        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+      },
+      "links": {
+        "rel": "child",
+        "href": "https://tvazteca.com/aztecadeportes/api/subscriptions/sports/futbol/leagues",
+        "view": "leagues"
+      }
+    },
+    {
+      "name": "Fútbol Americano",
+      "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+      "slug": "futbol-americano",
+      "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+      "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+      "typeName": "Section",
+      "relatedItem": {
+        "name": "Fútbol Americano",
+        "slug": "futbol-americano",
+        "typeName": "Sport",
+        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+      },
+      "links": {
+        "rel": "child",
+        "href": "https://tvazteca.com/aztecadeportes/api/subscriptions/sports/futbol-americano/leagues",
+        "view": "leagues"
+      }
+    },
+    {
+      "name": "Azteca Home Run",
+      "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+      "slug": "azteca-home-run",
+      "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+      "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+      "typeName": "Section",
+      "relatedItem": {
+        "name": "Béisbol",
+        "slug": "beisbol",
+        "typeName": "Sport",
+        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+      },
+      "links": {
+        "rel": "child",
+        "href": "https://tvazteca.com/aztecadeportes/subscriptions/api/categories/beisbol/leagues",
+        "view": "leagues"
+      }
+    },
+    {
+      "name": "Básquetbol",
+      "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+      "slug": "basquetbol",
+      "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+      "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+      "typeName": "Section",
+      "relatedItem": {
+        "name": "Básquetbol",
+        "slug": "basquetbol",
+        "typeName": "Sport",
+        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+      },
+      "links": {
+        "rel": "child",
+        "href": "https://tvazteca.com/aztecadeportes/subscriptions/api/categories/basquetbol/leagues",
+        "view": "leagues"
+      }
+    },
+    {
+      "name": "Tenis",
+      "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+      "slug": "tenis",
+      "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+      "typeName": "Section",
+      "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+      "relatedItem": {
+        "name": "Tenis",
+        "slug": "tenis",
+        "typeName": "Sport",
+        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+      },
+      "links": {
+        "rel": "child",
+        "href": "https://tvazteca.com/aztecadeportes/subscriptions/api/categories/tenis/leagues",
+        "view": "leagues"
+      }
+    },
+    {
+      "name": "Automovilísmo",
+      "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+      "slug": "automovilismo",
+      "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+      "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+      "typeName": "Section",
+      "relatedItem": {
+        "name": "Automovilísmo",
+        "slug": "automovilismo",
+        "typeName": "Sport",
+        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+      },
+      "links": {
+        "rel": "child",
+        "href": "https://tvazteca.com/aztecadeportes/subscriptions/api/categories/automovilismo/leagues",
+        "view": "leagues"
+      }
+    },
+    {
+      "name": "Box Azteca",
+      "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+      "slug": "box-azteca",
+      "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+      "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+      "typeName": "Section",
+      "relatedItem": {
+        "name": "Box",
+        "slug": "box",
+        "typeName": "Sport",
+        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+      },
+      "links": {
+        "rel": "child",
+        "href": "https://tvazteca.com/aztecadeportes/subscriptions/api/categories/box/leagues",
+        "view": "leagues"
+      }
+    },
+    {
+      "name": "Azteca eSports",
+      "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+      "slug": "azteca-esports",
+      "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+      "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+      "typeName": "Section",
+      "links": {
+        "rel": "child",
+        "href": "https://tvazteca.com/aztecadeportes/subscriptions/api/esports/categories",
+        "view": "leagues"
+      }
+    },
+    {
+      "name": "Azteca Lucha",
+      "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+      "slug": "azteca-lucha",
+      "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+      "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+      "typeName": "Section",
+      "relatedItem": {
+        "name": "Lucha",
+        "slug": "lucha",
+        "typeName": "Sport",
+        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+      }
+    },
+    {
+      "name": "Azteca Golf",
+      "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+      "slug": "azteca-golf",
+      "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+      "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+      "typeName": "Section",
+      "relatedItem": {
+        "name": "Golf",
+        "slug": "golf",
+        "typeName": "Sport",
+        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+      },
+      "links": {
+        "rel": "child",
+        "href": "https://tvazteca.com/aztecadeportes/subscriptions/api/categories/golf/leagues",
+        "view": "leagues"
+      }
+    },
+    {
+      "name": "Los Protagonistas",
+      "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+      "slug": "los-protagonistas",
+      "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+      "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+      "typeName": "Section"
+    }
+  ]
+}
