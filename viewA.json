@@ -1,0 +1,506 @@
+{
+    "data": [{
+            "tipo": "PROFILE_CATEGORY",
+            "name": "Selecciona tus deportes favoritos",
+            "items": [{
+                    "tipo": "GameCardView",
+                    "name": "Fut Azteca",
+                    "icon": "https://thumbs.dreamstime.com/b/american-football-sport-ball-vector-icon-isolated-white-background-silhouette-flat-illustration-style-142974046.jpg",
+                    "slug": "fut-azteca",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+                    "typeName": "Section",
+                    "relatedItem": {
+                        "name": "Futbol",
+                        "slug": "futbol",
+                        "typeName": "Sport",
+                        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                    },
+                    "links": {
+                        "rel": "child",
+                        "href": "href",
+                        "view": "leagues"
+                    }
+                }, {
+                    "tipo": "GameCardView",
+                    "name": "Fut Azteca",
+                    "icon": "https://thumbs.dreamstime.com/b/american-football-sport-ball-vector-icon-isolated-white-background-silhouette-flat-illustration-style-142974046.jpg",
+                    "slug": "fut-azteca",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+                    "typeName": "Section",
+                    "relatedItem": {
+                        "name": "Futbol",
+                        "slug": "futbol",
+                        "typeName": "Sport",
+                        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                    },
+                    "links": {
+                        "rel": "child",
+                        "href": "href",
+                        "view": "leagues"
+                    }
+                }, {
+                    "tipo": "GameCardView",
+                    "name": "Fut Azteca",
+                    "icon": "https://thumbs.dreamstime.com/b/american-football-sport-ball-vector-icon-isolated-white-background-silhouette-flat-illustration-style-142974046.jpg",
+                    "slug": "fut-azteca",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+                    "typeName": "Section",
+                    "relatedItem": {
+                        "name": "Futbol",
+                        "slug": "futbol",
+                        "typeName": "Sport",
+                        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                    },
+                    "links": {
+                        "rel": "child",
+                        "href": "href",
+                        "view": "leagues"
+                    }
+                },
+                {
+                    "tipo": "GameCardView",
+                    "name": "Fut Azteca",
+                    "icon": "https://thumbs.dreamstime.com/b/american-football-sport-ball-vector-icon-isolated-white-background-silhouette-flat-illustration-style-142974046.jpg",
+                    "slug": "fut-azteca",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+                    "typeName": "Section",
+                    "relatedItem": {
+                        "name": "Futbol",
+                        "slug": "futbol",
+                        "typeName": "Sport",
+                        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                    },
+                    "links": {
+                        "rel": "child",
+                        "href": "href",
+                        "view": "leagues"
+                    }
+                },
+                {
+                    "tipo": "GameCardView",
+                    "name": "Fútbol Americano",
+                    "icon": "https://thumbs.dreamstime.com/b/american-football-sport-ball-vector-icon-isolated-white-background-silhouette-flat-illustration-style-142974046.jpg",
+                    "slug": "fut-azteca",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+                    "typeName": "Section",
+                    "relatedItem": {
+                        "name": "Futbol",
+                        "slug": "futbol",
+                        "typeName": "Sport",
+                        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                    },
+                    "links": {
+                        "rel": "child",
+                        "href": "href",
+                        "view": "leagues"
+                    }
+                },
+                {
+                    "tipo": "GameCardView",
+                    "name": "Tenis",
+                    "icon": "https://thumbs.dreamstime.com/b/american-football-sport-ball-vector-icon-isolated-white-background-silhouette-flat-illustration-style-142974046.jpg",
+                    "slug": "fut-azteca",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "ba7d9749-a9b7-3050-86ad-15e1b9f4be7d",
+                    "typeName": "Section",
+                    "relatedItem": {
+                        "name": "Futbol",
+                        "slug": "futbol",
+                        "typeName": "Sport",
+                        "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                        "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                    },
+                    "links": {
+                        "rel": "child",
+                        "href": "href",
+                        "view": "leagues"
+                    }
+                }
+            ]
+        },
+      
+        {
+            "tipo": "type_2",
+            "name": "Seleccione un pais para ver sus ligas",
+            "items": [
+            {
+                    "tipo": "type_2_item",
+                    "name": "Mexico",
+                    "icon": "https://via.placeholder.com/54x38/4040ff/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_2_item",
+                    "name": "Espania",
+                    "icon": "https://via.placeholder.com/54x38/4040ff/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_2_item",
+                    "name": "Estados Unidos",
+                    "icon": "https://via.placeholder.com/54x38/4040ff/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_2_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/54x38/4040ff/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_2_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/54x38/4040ff/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_2_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/54x38/4040ff/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                }
+]
+        },
+
+
+        {
+            "tipo": "type_3",
+            "name": "Mexico - Equipos",
+            "items": [
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_3_item",
+                    "name": "Liga MX",
+                    "icon": "https://via.placeholder.com/56/FF0000/FFFFFF?text=America",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                }
+             
+]
+        },
+
+        {
+            "tipo": "type_4",
+            "name": "Mexico - Ligas y torneos",
+            "items": [{
+                    "tipo": "type_4_item",
+                    "name": "Liga MX",
+                    "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_4_item",
+                    "name": "Liga Expancion MX",
+                    "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_4_item",
+                    "name": "Seleccion Azteca",
+                    "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_4_item",
+                    "name": "Liga MX",
+                    "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                }]
+        },
+
+
+        {
+            "tipo": "type_5",
+            "name": "AFC Este",
+            "items": [{
+                    "tipo": "type_5_item",
+                    "name": "Bills",
+                    "icon": "https://via.placeholder.com/56x56/4040ff/FFFFFF?text=icon",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_5_item",
+                    "name": "Dolphins",
+                    "icon": "https://via.placeholder.com/56x56/4040ff/FFFFFF?text=icon",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_5_item",
+                    "name": "Patriots",
+                    "icon": "https://via.placeholder.com/56x56/4040ff/FFFFFF?text=icon",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_5_item",
+                    "name": "Jets",
+                    "icon": "https://via.placeholder.com/56x56/4040ff/FFFFFF?text=icon",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                }]
+        },
+
+        {
+            "tipo": "type_5",
+            "name": "AFC Norte",
+            "items": [{
+                    "tipo": "type_5_item",
+                    "name": "Ravens",
+                    "icon": "https://via.placeholder.com/56x56/4040ff/FFFFFF?text=icon",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_5_item",
+                    "name": "Bengals",
+                    "icon": "https://via.placeholder.com/56x56/4040ff/FFFFFF?text=icon",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_5_item",
+                    "name": "Browns",
+                    "icon": "https://via.placeholder.com/56x56/4040ff/FFFFFF?text=icon",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                },
+            {
+                    "tipo": "type_5_item",
+                    "name": "Steelers",
+                    "icon": "https://via.placeholder.com/56x56/4040ff/FFFFFF?text=icon",
+                    "slug": "liga-mx",
+                    "id": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeId": "0000016b-d782-d4db-a97f-f7aa95300000",
+                    "typeName": "Section"
+                }]
+        }
+    ]
+}
